@@ -50,3 +50,11 @@
 <img border="0" alt="Sujay Shaharee" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 </p>
+<br/>
+
+<p>Random Dev Quote:
+  
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes) 
+</p>
+
+
