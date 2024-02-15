@@ -6,9 +6,8 @@
 
 
 
-- 🔭 I’m currently working on MERN development, browser extensions and much more 😄 <br/>
-- 🌱 I’m currently learning about API development plus LLMs 🚀 </br>
-- 👯 I’m looking to collaborate on Generative AI related projects 🚩 </br>
+- 🔭 I’m currently working on ML/Backend development, both in DRF and Node.js, RAG models and much more 😄 <br/>
+- 👯 I’m looking to collaborate on AI related projects 🚩 </br>
 - 💬 I’m open for collaborating on any interesting project ✌🏻 </br>
 - 📫 Feel free to reach me out 👇🏻 <br/>
 
