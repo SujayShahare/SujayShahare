@@ -1,11 +1,11 @@
-# Hello 👋, I'm Sujay
+## Hello 👋, I'm Sujay
 
 I'm an AI engineer on a mission to transform professional services using AI, currently building a domain-specific platform for financial institutions.
 
 _My interests include company building, reading biographies, military history, [longtermism](https://longtermism.com/), and accelerating human progress._
 
 
-## Links
+### Links
 
 - [Personal website](https://www.sujayshahare.com/)
 - [Twitter/X](https://x.com/sujay_shahare)
